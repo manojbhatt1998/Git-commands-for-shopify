@@ -1,1 +1,29 @@
 
+
+1) Add README.md file in folder where you have added Vs code if already added then Ignore this.
+2) If you NOT want to add/push some files from Vs code to github then create .new file named with ".gitignore" and file name inside this which you not want to push in GitHub.  
+3) To check git is installed in your system Type "git vesion".
+4) Add git init
+5) Add README.md file in folder where you have added Vs code if already added then Ignore this.
+6) to stated change type  " git add . "
+7) git commit -m "first commit"   You can add whatever message here like "Hello world" or like this screenshot  => https://prnt.sc/CULlhjJzftAk
+8) To change branch name instead of name you can use "git branch - M  Development"
+9) Now git remote use -   git remote add origin https://github.com/manojbhatt1998/Git-commands-for-shopify.git
+10) git push -u origin Development 
+11) Now go to shopify admin and choose option "Connect from Git" and choose repository and connect it.
+
+==> Now you want updated data in file and save and then push the data again then use following commands
+1) git add . 
+2) git commit -m "updated the file index.liquid"
+3) git push
+
+
+Follo this video for more information this is a refernce video  -- https://youtu.be/qOH1Skjj9CU 
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/manojbhatt1998/Git-commands-for-shopify.git
+git push -u origin main
