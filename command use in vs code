@@ -3,7 +3,7 @@
 1) Add README.md file in folder where you have added Vs code if already added then Ignore this.
 2) If you NOT want to add/push some files from Vs code to github then create .new file named with ".gitignore" and file name inside this which you not want to push in GitHub.  
 3) To check git is installed in your system Type "git vesion".
-4) Add git init
+4) Add "git init"
 5) Add README.md file in folder where you have added Vs code if already added then Ignore this.
 6) to stated change type  " git add . "
 7) git commit -m "first commit"   You can add whatever message here like "Hello world" or like this screenshot  => https://prnt.sc/CULlhjJzftAk
