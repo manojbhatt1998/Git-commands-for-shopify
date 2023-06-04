@@ -4,8 +4,7 @@ git add
 git commit
 git push
 
-
-1) git clone <path url>
+1) git clone <path url> and type cd to go file "cd test"
 2) git status
 3) git add .
 4) git commit -m "first commit"  
