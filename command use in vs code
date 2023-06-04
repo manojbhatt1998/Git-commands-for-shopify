@@ -1,5 +1,12 @@
+git clone or git init
+git status
+git add
+git commit
+git push
 
 
+
+------------------------------------------------------
 1) Add README.md file in folder where you have added Vs code if already added then Ignore this.
 2) If you NOT want to add/push some files from Vs code to github then create .new file named with ".gitignore" and file name inside this which you not want to push in GitHub.  
 3) To check git is installed in your system Type "git vesion".
