@@ -5,7 +5,11 @@ git commit
 git push
 
 
-
+1) git clone <path url>
+2) git status
+3) git add .
+4) git commit -m "first commit"  
+5) git push
 ------------------------------------------------------
 1) Add README.md file in folder where you have added Vs code if already added then Ignore this.
 2) If you NOT want to add/push some files from Vs code to github then create .new file named with ".gitignore" and file name inside this which you not want to push in GitHub.  
