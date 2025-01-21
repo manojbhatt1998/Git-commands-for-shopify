@@ -1,0 +1,22 @@
+//********************To push files to git for vs code***********************//
+
+echo "# shopifytheme" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/khannajot/shopifytheme.git
+git push -u origin main
+
+
+//********************To delete local files ***********************//
+git rm -r -f *
+git commit -m "Removed all files"
+git push -u origin branch_name
+
+
+
+//********************To delete files from Git not local folder ***********************//
+git commit -m "Remove files from Git but keep locally"
+git push origin main
+
