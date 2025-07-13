@@ -3,7 +3,7 @@
 echo "# shopifytheme" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "first commit"         //to check file before push
 git branch -M main
 git remote add origin https://github.com/khannajot/shopifytheme.git
 git push -u origin main
